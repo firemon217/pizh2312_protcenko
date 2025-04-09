@@ -79,7 +79,6 @@ void parseOptions(const vector<string>& args,
 }
 
 void printStats(const FileStats& stats, const set<string>& options, const string& filename, bool showFilename = true) {
-    wcout << std::boolalpha;
     if (options.empty() || options.count("lines"))
         wcout << L"Lines: " << stats.lines << L" -- ";
     if (options.empty() || options.count("words"))
