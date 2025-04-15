@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\labCPP_max\labwork2\build\CMakeFiles\928a8cb7c05b5a0050fb70493e5b72a6\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CFCEA2A8-E5A1-3862-A6AC-9E680F09948F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
