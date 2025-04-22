@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\user\Desktop\labCPP_max\labwork2\build\CMakeFiles\0b94fca6a049e358f1b0e0a36054a877\RUN_TESTS_force.rule">
+    <CustomBuild Include="C:\Work\University\OOP\pizh2312_protcenko\lab8\build\CMakeFiles\e0234f473d6db44d72214501629b3ea9\RUN_TESTS_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{CFCEA2A8-E5A1-3862-A6AC-9E680F09948F}</UniqueIdentifier>
+      <UniqueIdentifier>{C4D31CF8-72E9-35E9-97FA-2AEEE82794A8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

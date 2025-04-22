@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/user/Desktop/labCPP_max/labwork2/tests
+# Install script for directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,13 +34,13 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/user/Desktop/labCPP_max/labwork2/build/_deps/googletest-build/cmake_install.cmake")
+  include("C:/Work/University/OOP/pizh2312_protcenko/lab8/build/_deps/googletest-build/cmake_install.cmake")
 
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/user/Desktop/labCPP_max/labwork2/build/tests/install_local_manifest.txt"
+  file(WRITE "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/user/Desktop/labCPP_max/labwork2/lib
+# Install script for directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,6 +35,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/user/Desktop/labCPP_max/labwork2/build/lib/install_local_manifest.txt"
+  file(WRITE "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/lib/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

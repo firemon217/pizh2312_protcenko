@@ -1,5 +1,5 @@
-# ninja log v5
-14	954	7664318205648319	bin/CMakeFiles/lab2.dir/main.cpp.obj	3174a0bfc91de4d2
-8	874	7664331171813857	lib/CMakeFiles/number.dir/number.cpp.obj	cc15378d37fcac5b
-875	950	7664331172285657	lib/number.lib	7559e48493804c95
-951	1343	7664331176137680	bin/lab2.exe	1196f16b6b3ba4a2
+# ninja log v6
+22	436	7670468285415656	bin/CMakeFiles/lab2.dir/main.cpp.obj	47f5a0dcd20d0ed9
+17	485	7670468285359462	lib/CMakeFiles/number.dir/number.cpp.obj	ab9edf0f0f67f923
+486	531	7670468290049308	lib/number.lib	dd4c42f3693303ed
+531	821	7670468290509159	bin/lab2.exe	898ed3839d83b589

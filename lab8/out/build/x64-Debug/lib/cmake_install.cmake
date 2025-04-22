@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/user/Desktop/labCPP_max/labwork2/lib
+# Install script for directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/user/Desktop/labCPP_max/labwork2/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

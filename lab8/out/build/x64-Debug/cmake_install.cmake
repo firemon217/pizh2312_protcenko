@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/user/Desktop/labCPP_max/labwork2
+# Install script for directory: C:/Work/University/OOP/pizh2312_protcenko/lab8
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/user/Desktop/labCPP_max/labwork2/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,9 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/lib/cmake_install.cmake")
-  include("C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/bin/cmake_install.cmake")
-  include("C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/tests/cmake_install.cmake")
+  include("C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/lib/cmake_install.cmake")
+  include("C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/bin/cmake_install.cmake")
+  include("C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/tests/cmake_install.cmake")
 
 endif()
 
@@ -48,5 +48,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

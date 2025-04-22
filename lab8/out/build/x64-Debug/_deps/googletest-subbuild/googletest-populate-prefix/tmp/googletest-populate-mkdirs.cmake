@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-src"
-  "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-build"
-  "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix"
-  "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp"
-  "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp"
-  "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src"
-  "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp"
+  "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-src"
+  "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-build"
+  "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix"
+  "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp"
+  "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp"
+  "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src"
+  "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/user/Desktop/labCPP_max/labwork2/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Work/University/OOP/pizh2312_protcenko/lab8/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()
