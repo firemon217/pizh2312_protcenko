@@ -1,0 +1,3 @@
+C:/Work/University/OOP/pizh2312_protcenko/lab9/out/build/x64-Debug/CMakeFiles/sandpile.dir
+C:/Work/University/OOP/pizh2312_protcenko/lab9/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Work/University/OOP/pizh2312_protcenko/lab9/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
