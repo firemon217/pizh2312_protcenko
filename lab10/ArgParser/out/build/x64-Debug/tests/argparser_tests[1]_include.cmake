@@ -1,0 +1,5 @@
+if(EXISTS "C:/Work/University/OOP/pizh2312_protcenko/lab10/ArgParser/out/build/x64-Debug/tests/argparser_tests[1]_tests.cmake")
+  include("C:/Work/University/OOP/pizh2312_protcenko/lab10/ArgParser/out/build/x64-Debug/tests/argparser_tests[1]_tests.cmake")
+else()
+  add_test(argparser_tests_NOT_BUILT argparser_tests_NOT_BUILT)
+endif()
