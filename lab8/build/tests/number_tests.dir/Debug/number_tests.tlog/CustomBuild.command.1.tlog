@@ -1,0 +1,10 @@
+^C:\WORK\UNIVERSITY\OOP\PIZH2312_PROTCENKO\LAB8\TESTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Work/University/OOP/pizh2312_protcenko/lab8 -BC:/Work/University/OOP/pizh2312_protcenko/lab8/build --check-stamp-file C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

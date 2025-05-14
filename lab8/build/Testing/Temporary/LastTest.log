@@ -1,0 +1,858 @@
+Start testing: Apr 22 20:38 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/30 Testing: Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1EB8 pointing to "0", true)
+1/30 Test: Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1EB8 pointing to "0", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1EB8 pointing to "0", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/0
+[       OK ] Group/ConvertingTestsSuite.EqualTest/0 (0 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1EB8 pointing to "0", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1EB8 pointing to "0", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/30 Testing: Group/ConvertingTestsSuite.EqualTest/(239, 00007FF686CA1EB4 pointing to "239", true)
+2/30 Test: Group/ConvertingTestsSuite.EqualTest/(239, 00007FF686CA1EB4 pointing to "239", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(239, 00007FF686CA1EB4 pointing to "239", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/1
+[       OK ] Group/ConvertingTestsSuite.EqualTest/1 (2 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(239, 00007FF686CA1EB4 pointing to "239", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(239, 00007FF686CA1EB4 pointing to "239", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/30 Testing: Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1EB0 pointing to "255", true)
+3/30 Test: Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1EB0 pointing to "255", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1EB0 pointing to "255", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/2
+[       OK ] Group/ConvertingTestsSuite.EqualTest/2 (2 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1EB0 pointing to "255", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1EB0 pointing to "255", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/30 Testing: Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1EAC pointing to "256", true)
+4/30 Test: Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1EAC pointing to "256", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1EAC pointing to "256", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/3
+[       OK ] Group/ConvertingTestsSuite.EqualTest/3 (2 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1EAC pointing to "256", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1EAC pointing to "256", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/30 Testing: Group/ConvertingTestsSuite.EqualTest/(10000, 00007FF686CA1EA4 pointing to "10000", true)
+5/30 Test: Group/ConvertingTestsSuite.EqualTest/(10000, 00007FF686CA1EA4 pointing to "10000", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(10000, 00007FF686CA1EA4 pointing to "10000", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/4
+[       OK ] Group/ConvertingTestsSuite.EqualTest/4 (4 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(10000, 00007FF686CA1EA4 pointing to "10000", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(10000, 00007FF686CA1EA4 pointing to "10000", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/30 Testing: Group/ConvertingTestsSuite.EqualTest/(32767, 00007FF686CA1E9C pointing to "32767", true)
+6/30 Test: Group/ConvertingTestsSuite.EqualTest/(32767, 00007FF686CA1E9C pointing to "32767", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/5" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(32767, 00007FF686CA1E9C pointing to "32767", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/5
+[       OK ] Group/ConvertingTestsSuite.EqualTest/5 (4 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(32767, 00007FF686CA1E9C pointing to "32767", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(32767, 00007FF686CA1E9C pointing to "32767", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/30 Testing: Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E94 pointing to "32768", true)
+7/30 Test: Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E94 pointing to "32768", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/6" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E94 pointing to "32768", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/6
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/6
+[       OK ] Group/ConvertingTestsSuite.EqualTest/6 (4 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E94 pointing to "32768", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E94 pointing to "32768", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/30 Testing: Group/ConvertingTestsSuite.EqualTest/(65535, 00007FF686CA1E8C pointing to "65535", true)
+8/30 Test: Group/ConvertingTestsSuite.EqualTest/(65535, 00007FF686CA1E8C pointing to "65535", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/7" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(65535, 00007FF686CA1E8C pointing to "65535", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/7
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/7
+[       OK ] Group/ConvertingTestsSuite.EqualTest/7 (4 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(65535, 00007FF686CA1E8C pointing to "65535", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(65535, 00007FF686CA1E8C pointing to "65535", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/30 Testing: Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E80 pointing to "2147483647", true)
+9/30 Test: Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E80 pointing to "2147483647", true)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/8" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E80 pointing to "2147483647", true)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/8
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/8
+[       OK ] Group/ConvertingTestsSuite.EqualTest/8 (8 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E80 pointing to "2147483647", true)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E80 pointing to "2147483647", true)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/30 Testing: Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1E7C pointing to "1", false)
+10/30 Test: Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1E7C pointing to "1", false)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/9" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1E7C pointing to "1", false)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/9
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/9
+[       OK ] Group/ConvertingTestsSuite.EqualTest/9 (0 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1E7C pointing to "1", false)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(0, 00007FF686CA1E7C pointing to "1", false)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/30 Testing: Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E74 pointing to "32769", false)
+11/30 Test: Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E74 pointing to "32769", false)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/10" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E74 pointing to "32769", false)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/10
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/10
+[       OK ] Group/ConvertingTestsSuite.EqualTest/10 (4 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E74 pointing to "32769", false)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(32768, 00007FF686CA1E74 pointing to "32769", false)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/30 Testing: Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1E70 pointing to "256", false)
+12/30 Test: Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1E70 pointing to "256", false)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/11" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1E70 pointing to "256", false)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/11
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/11
+[       OK ] Group/ConvertingTestsSuite.EqualTest/11 (2 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1E70 pointing to "256", false)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(255, 00007FF686CA1E70 pointing to "256", false)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/30 Testing: Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1E6C pointing to "255", false)
+13/30 Test: Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1E6C pointing to "255", false)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/12" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1E6C pointing to "255", false)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/12
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/12
+[       OK ] Group/ConvertingTestsSuite.EqualTest/12 (2 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1E6C pointing to "255", false)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(256, 00007FF686CA1E6C pointing to "255", false)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/30 Testing: Group/ConvertingTestsSuite.EqualTest/(31251, 00007FF686CA1E64 pointing to "31252", false)
+14/30 Test: Group/ConvertingTestsSuite.EqualTest/(31251, 00007FF686CA1E64 pointing to "31252", false)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/13" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(31251, 00007FF686CA1E64 pointing to "31252", false)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/13
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/13
+[       OK ] Group/ConvertingTestsSuite.EqualTest/13 (4 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(31251, 00007FF686CA1E64 pointing to "31252", false)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(31251, 00007FF686CA1E64 pointing to "31252", false)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/30 Testing: Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E58 pointing to "2147483648", false)
+15/30 Test: Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E58 pointing to "2147483648", false)
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/ConvertingTestsSuite.EqualTest/14" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E58 pointing to "2147483648", false)" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/ConvertingTestsSuite.EqualTest/14
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/ConvertingTestsSuite
+[ RUN      ] Group/ConvertingTestsSuite.EqualTest/14
+[       OK ] Group/ConvertingTestsSuite.EqualTest/14 (8 ms)
+[----------] 1 test from Group/ConvertingTestsSuite (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E58 pointing to "2147483648", false)" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/ConvertingTestsSuite.EqualTest/(2147483647, 00007FF686CA1E58 pointing to "2147483648", false)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/30 Testing: Group/OperationTestsSuite.AddTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")
+16/30 Test: Group/OperationTestsSuite.AddTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.AddTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.AddTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.AddTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.AddTest/0
+[       OK ] Group/OperationTestsSuite.AddTest/0 (3 ms)
+[----------] 1 test from Group/OperationTestsSuite (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/OperationTestsSuite.AddTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.AddTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/30 Testing: Group/OperationTestsSuite.AddTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")
+17/30 Test: Group/OperationTestsSuite.AddTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.AddTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.AddTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.AddTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.AddTest/1
+[       OK ] Group/OperationTestsSuite.AddTest/1 (8 ms)
+[----------] 1 test from Group/OperationTestsSuite (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/OperationTestsSuite.AddTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.AddTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/30 Testing: Group/OperationTestsSuite.AddTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962...
+18/30 Test: Group/OperationTestsSuite.AddTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.AddTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.AddTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.AddTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.AddTest/2
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.AddTest/2, where GetParam() = (00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621438", 00007FF686CA1540 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621436", 00007FF686CA14F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437") (63 ms)
+[----------] 1 test from Group/OperationTestsSuite (63 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (63 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.AddTest/2, where GetParam() = (00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621438", 00007FF686CA1540 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621436", 00007FF686CA14F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.AddTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.AddTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/30 Testing: Group/OperationTestsSuite.AddTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785...
+19/30 Test: Group/OperationTestsSuite.AddTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.AddTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.AddTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.AddTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.AddTest/3
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.AddTest/3, where GetParam() = (00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1400 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1134 pointing to "0") (66 ms)
+[----------] 1 test from Group/OperationTestsSuite (66 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (66 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.AddTest/3, where GetParam() = (00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1400 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1134 pointing to "0")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.AddTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.AddTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/30 Testing: Group/OperationTestsSuite.AddTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974...
+20/30 Test: Group/OperationTestsSuite.AddTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.AddTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.AddTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.AddTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.AddTest/4
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.AddTest/4, where GetParam() = (00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA12F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA1280 pointing to "1469832487054184013178321496623041557517329857560238757278117847507488415462666081345922349701550571520") (61 ms)
+[----------] 1 test from Group/OperationTestsSuite (61 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (62 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.AddTest/4, where GetParam() = (00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA12F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA1280 pointing to "1469832487054184013178321496623041557517329857560238757278117847507488415462666081345922349701550571520")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.AddTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.AddTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/30 Testing: Group/OperationTestsSuite.SubstTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")
+21/30 Test: Group/OperationTestsSuite.SubstTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.SubstTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.SubstTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.SubstTest/0
+[       OK ] Group/OperationTestsSuite.SubstTest/0 (2 ms)
+[----------] 1 test from Group/OperationTestsSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/30 Testing: Group/OperationTestsSuite.SubstTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")
+22/30 Test: Group/OperationTestsSuite.SubstTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.SubstTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.SubstTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.SubstTest/1
+[       OK ] Group/OperationTestsSuite.SubstTest/1 (8 ms)
+[----------] 1 test from Group/OperationTestsSuite (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/30 Testing: Group/OperationTestsSuite.SubstTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962...
+23/30 Test: Group/OperationTestsSuite.SubstTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.SubstTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.SubstTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.SubstTest/2
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.SubstTest/2, where GetParam() = (00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621438", 00007FF686CA1540 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621436", 00007FF686CA14F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437") (61 ms)
+[----------] 1 test from Group/OperationTestsSuite (61 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (61 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.SubstTest/2, where GetParam() = (00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621438", 00007FF686CA1540 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621436", 00007FF686CA14F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/30 Testing: Group/OperationTestsSuite.SubstTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785...
+24/30 Test: Group/OperationTestsSuite.SubstTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.SubstTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.SubstTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.SubstTest/3
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.SubstTest/3, where GetParam() = (00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1400 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1134 pointing to "0") (64 ms)
+[----------] 1 test from Group/OperationTestsSuite (64 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (65 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.SubstTest/3, where GetParam() = (00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1400 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1134 pointing to "0")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/30 Testing: Group/OperationTestsSuite.SubstTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974...
+25/30 Test: Group/OperationTestsSuite.SubstTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.SubstTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.SubstTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.SubstTest/4
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.SubstTest/4, where GetParam() = (00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA12F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA1280 pointing to "1469832487054184013178321496623041557517329857560238757278117847507488415462666081345922349701550571520") (64 ms)
+[----------] 1 test from Group/OperationTestsSuite (64 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (65 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.SubstTest/4, where GetParam() = (00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA12F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA1280 pointing to "1469832487054184013178321496623041557517329857560238757278117847507488415462666081345922349701550571520")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.SubstTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/30 Testing: Group/OperationTestsSuite.MultTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")
+26/30 Test: Group/OperationTestsSuite.MultTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.MultTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.MultTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.MultTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.MultTest/0
+[       OK ] Group/OperationTestsSuite.MultTest/0 (2 ms)
+[----------] 1 test from Group/OperationTestsSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/OperationTestsSuite.MultTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.MultTest/(00007FF686CA1674 pointing to "1", 00007FF686CA1670 pointing to "1", 00007FF686CA166C pointing to "2", 00007FF686CA1668 pointing to "0", 00007FF686CA1664 pointing to "1")" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/30 Testing: Group/OperationTestsSuite.MultTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")
+27/30 Test: Group/OperationTestsSuite.MultTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.MultTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.MultTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.MultTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.MultTest/1
+[       OK ] Group/OperationTestsSuite.MultTest/1 (8 ms)
+[----------] 1 test from Group/OperationTestsSuite (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Group/OperationTestsSuite.MultTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.MultTest/(00007FF686CA165C pointing to "1024", 00007FF686CA1658 pointing to "1", 00007FF686CA1650 pointing to "1025", 00007FF686CA1648 pointing to "1023", 00007FF686CA1640 pointing to "1024")" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/30 Testing: Group/OperationTestsSuite.MultTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962...
+28/30 Test: Group/OperationTestsSuite.MultTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.MultTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.MultTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.MultTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.MultTest/2
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.MultTest/2, where GetParam() = (00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621438", 00007FF686CA1540 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621436", 00007FF686CA14F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437") (74 ms)
+[----------] 1 test from Group/OperationTestsSuite (75 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (75 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.MultTest/2, where GetParam() = (00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621438", 00007FF686CA1540 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621436", 00007FF686CA14F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.MultTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.MultTest/(00007FF686CA15F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA15E0 pointing to "1", 00007FF686CA1590 pointing to "40527231233060668398249844753040767748644494632974197051132408518380842962..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/30 Testing: Group/OperationTestsSuite.MultTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785...
+29/30 Test: Group/OperationTestsSuite.MultTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.MultTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.MultTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.MultTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.MultTest/3
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.MultTest/3, where GetParam() = (00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1400 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1134 pointing to "0") (63 ms)
+[----------] 1 test from Group/OperationTestsSuite (63 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (63 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.MultTest/3, where GetParam() = (00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1400 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA1134 pointing to "0")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.MultTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.MultTest/(00007FF686CA14A0 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA11F4 pointing to "0", 00007FF686CA1450 pointing to "40527231233060668398249844753040767748644494632974197776487900287158347785..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/30 Testing: Group/OperationTestsSuite.MultTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974...
+30/30 Test: Group/OperationTestsSuite.MultTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974...
+Command: "C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/Debug/number_tests.exe" "--gtest_filter=Group/OperationTestsSuite.MultTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests
+"Group/OperationTestsSuite.MultTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." start time: Apr 22 20:38 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Work\University\OOP\pizh2312_protcenko\lab8\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Group/OperationTestsSuite.MultTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Group/OperationTestsSuite
+[ RUN      ] Group/OperationTestsSuite.MultTest/4
+unknown file: error: C++ exception with description "Overflow in uint2022_t addition" thrown in the test body.
+[  FAILED  ] Group/OperationTestsSuite.MultTest/4, where GetParam() = (00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA12F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA1280 pointing to "1469832487054184013178321496623041557517329857560238757278117847507488415462666081345922349701550571520") (60 ms)
+[----------] 1 test from Group/OperationTestsSuite (60 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (61 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Group/OperationTestsSuite.MultTest/4, where GetParam() = (00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "405272312330606683982498447530407677486444946329741977764879002871583477858493", 00007FF686CA12F0 pointing to "405272312330606683982498447530407677486444946329741970511324085183808429621437", 00007FF686CA1280 pointing to "1469832487054184013178321496623041557517329857560238757278117847507488415462666081345922349701550571520")
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Failed.
+"Group/OperationTestsSuite.MultTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." end time: Apr 22 20:38 RTZ 2 (çèìà)
+"Group/OperationTestsSuite.MultTest/(00007FF686CA13B0 pointing to "405272312330606683982498447530407677486444946329741974138101544027695953739965", 00007FF686CA1390 pointing to "3626777458843887524118528", 00007FF686CA1340 pointing to "40527231233060668398249844753040767748644494632974..." time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 22 20:38 RTZ 2 (çèìà)

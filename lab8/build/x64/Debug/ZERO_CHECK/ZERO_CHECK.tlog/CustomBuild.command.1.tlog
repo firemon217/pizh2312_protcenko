@@ -1,0 +1,10 @@
+^C:\WORK\UNIVERSITY\OOP\PIZH2312_PROTCENKO\LAB8\BUILD\CMAKEFILES\E29089E719170487F3E382BB0D8A9465\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Work/University/OOP/pizh2312_protcenko/lab8 -BC:/Work/University/OOP/pizh2312_protcenko/lab8/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Work/University/OOP/pizh2312_protcenko/lab8/build/lab2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Work/University/OOP/pizh2312_protcenko/lab8/build/cmake_install.cmake",
+		"C:/Work/University/OOP/pizh2312_protcenko/lab8/build/lib/cmake_install.cmake",
+		"C:/Work/University/OOP/pizh2312_protcenko/lab8/build/bin/cmake_install.cmake",
+		"C:/Work/University/OOP/pizh2312_protcenko/lab8/build/tests/cmake_install.cmake",
+		"C:/Work/University/OOP/pizh2312_protcenko/lab8/build/_deps/googletest-build/cmake_install.cmake",
+		"C:/Work/University/OOP/pizh2312_protcenko/lab8/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"C:/Work/University/OOP/pizh2312_protcenko/lab8/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
