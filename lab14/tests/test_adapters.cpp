@@ -70,3 +70,16 @@ TEST(PipelineTest, FilterThenTransform) {
     std::vector<int> expected{2,4,6};
     EXPECT_EQ(result, expected);
 }
+
+TEST(TakeTest, TakeMoreThanSize) {
+    std::vector<int> v{ 1, 2, 3 };
+    auto result = to_vector(v | take(10));
+    EXPECT_EQ(result.size(), 3);
+    EXPECT_EQ(result, v);
+}
+
+TEST(DropTest, DropMoreThanSize) {
+    std::vector<int> v{ 1, 2, 3 };
+    auto result = to_vector(v | drop(10));
+    EXPECT_TRUE(result.empty());
+}

@@ -7,7 +7,7 @@ int main() {
     std::vector<int> v = {1,2,3,4,5,6};
     
     // Фильтр + трансформация (квадраты нечётных)
-    auto pipeline = v `
+    auto pipeline = v
         | filter([](int x) { return x % 2 == 1; })
         | transform([](int x) { return x * x; });
     std::cout << "Filter + Transform: ";
