@@ -1,0 +1,3 @@
+C:/Work/University/Экзамены/Автомат/SRP/build/CMakeFiles/sandpiles.dir
+C:/Work/University/Экзамены/Автомат/SRP/build/CMakeFiles/ALL_BUILD.dir
+C:/Work/University/Экзамены/Автомат/SRP/build/CMakeFiles/ZERO_CHECK.dir
